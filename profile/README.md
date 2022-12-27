@@ -1,6 +1,6 @@
 ## 42 Founders 👋
 
-우리는 [42 SEOUL](https://42seoul.kr/seoul42/main/view) 창업 동아리입니다.
+우리는 <a href="https://42seoul.kr/seoul42/main/view" target="_blank">42 SEOUL</a> 창업 동아리입니다.
 
 본과정생들 중에서 창업에 관심있는 사람들이 모였습니다.
 
@@ -16,7 +16,7 @@
 
 우리는 아래와 같은 마음으로 제품을 개발하고 고객들에게 각자의 제품을 선보일 것 입니다.
 
-### [애자일 소프트웨어 개발 선언](http://agilemanifesto.org/) 🙋‍♂️🙋‍♀️
+### <a href="http://agilemanifesto.org/" target="_blank">애자일 소프트웨어 개발 선언</a> 🙋‍♂️🙋‍♀️
 
 우리는 소프트웨어를 개발하고, 또 다른 사람의 개발을 도와주면서 소프트웨어 개발의 더 나은 방법들을 찾아가고있다.
 
